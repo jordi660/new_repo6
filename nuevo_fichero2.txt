@@ -1,1 +1,1 @@
-lineas en nuevo fichero 2
+borro linea original y escribo nueva
